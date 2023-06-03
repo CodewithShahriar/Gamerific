@@ -840,16 +840,16 @@ Trending Style
   font-weight: 400;
   font-size: 14px;
   text-decoration: line-through;
-  display: block;
+  /* display: block; */
 }
 
 .trending .item span.price {
   text-align: right;
   position: absolute;
-  right: 20px;
-  top: 20px;
+  right: 0px;
+  top: 0px;
   border-radius: 10px;
-  background-color: #008af8;
+  background-color: #0088f8a2;
   font-size: 17px;
   text-transform: uppercase;
   font-weight: 600;
