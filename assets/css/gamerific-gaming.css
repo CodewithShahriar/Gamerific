@@ -1243,10 +1243,10 @@ Shop Page Style
 .trending-box .item span.price {
   text-align: right;
   position: absolute;
-  right: 20px;
-  top: 20px;
+  right: 0px;
+  top: 0px;
   border-radius: 10px;
-  background-color: #008af8;
+  background-color: #0088f891;
   font-size: 17px;
   text-transform: uppercase;
   font-weight: 600;
@@ -1282,7 +1282,7 @@ Shop Page Style
   color: #fff;
   border-radius: 50%;
   right: 25px;
-  bottom: 25px;
+  bottom: 16px;
   transition: all .3s;
 }
 
